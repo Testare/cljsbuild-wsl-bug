@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Logan Woodbury <Testare.i9z@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "source-map-support": "^0.4.15"
+  }
+}
